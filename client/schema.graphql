@@ -1,0 +1,3 @@
+type Query {
+    getById(id: Int!): String
+}
